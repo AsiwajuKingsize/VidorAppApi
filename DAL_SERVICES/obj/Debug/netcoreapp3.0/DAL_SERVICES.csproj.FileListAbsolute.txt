@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\WebApp_EComm\DAL_SERVICES\bin\Debug\netcoreapp3.0\DAL_SERVICES.deps.json
+C:\Users\HP\source\repos\WebApp_EComm\DAL_SERVICES\bin\Debug\netcoreapp3.0\DAL_SERVICES.dll
+C:\Users\HP\source\repos\WebApp_EComm\DAL_SERVICES\bin\Debug\netcoreapp3.0\DAL_SERVICES.pdb
+C:\Users\HP\source\repos\WebApp_EComm\DAL_SERVICES\obj\Debug\netcoreapp3.0\DAL_SERVICES.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\WebApp_EComm\DAL_SERVICES\obj\Debug\netcoreapp3.0\DAL_SERVICES.AssemblyInfo.cs
+C:\Users\HP\source\repos\WebApp_EComm\DAL_SERVICES\obj\Debug\netcoreapp3.0\DAL_SERVICES.dll
+C:\Users\HP\source\repos\WebApp_EComm\DAL_SERVICES\obj\Debug\netcoreapp3.0\DAL_SERVICES.pdb
+C:\Users\HP\source\repos\WebApp_EComm\DAL_SERVICES\bin\Debug\netcoreapp3.0\DAL_SERVICES.runtimeconfig.json
+C:\Users\HP\source\repos\WebApp_EComm\DAL_SERVICES\bin\Debug\netcoreapp3.0\DAL_SERVICES.runtimeconfig.dev.json
+C:\Users\HP\source\repos\WebApp_EComm\DAL_SERVICES\obj\Debug\netcoreapp3.0\DAL_SERVICES.csprojAssemblyReference.cache
